@@ -13,6 +13,6 @@
   // Add a dependency cooldown
   // https://docs.renovatebot.com/key-concepts/minimum-release-age/#minimum-release-age
   // https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns
-  "minimumReleaseAge": "7 days",
+  "minimumReleaseAge": "100 days",
   "internalChecksFilter": "strict"
 }

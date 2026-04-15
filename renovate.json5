@@ -8,7 +8,9 @@
     // https://docs.renovatebot.com/presets-config/#configbest-practices
     "config:recommended",
     // https://docs.renovatebot.com/presets-helpers/#helperspingithubactiondigeststosemver
-    "helpers:pinGitHubActionDigestsToSemver",
+    // "helpers:pinGitHubActionDigestsToSemver",
+    // https://docs.renovatebot.com/presets-helpers/#helperspingithubactiondigests
+    "helpers:pinGitHubActionDigests",
   ],
   // Add a dependency cooldown
   // https://docs.renovatebot.com/key-concepts/minimum-release-age/#minimum-release-age
